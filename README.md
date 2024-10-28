@@ -73,7 +73,7 @@
 ### Research Articles
 
 - A. Jejina, Y. Ayala, D. Beuchle, T. Höhener, R. Dörig, P. Vazquez Pianzola, G. Hernández, and B. Suter. (2023). Role of BicDR in shaft construction and support of BicD functions. *J. Cell. Sci.* 137 (2): jcs261408. (https://pubmed.ncbi.nlm.nih.gov/38264934/)
-- M. Bao, R. Dörig, P. Vazquez Pianzola, D. Beuchle, and B. Suter. (2023). Differential modifications of the C-terminal tails of α-tubulin isoforms and their importance for kinesin-based microtubule transport in vivo. *eLife* 12: e87125.
+- M. Bao, R. Dörig, P. Vazquez Pianzola, D. Beuchle, and B. Suter. (2023). Differential modifications of the C-terminal tails of α-tubulin isoforms and their importance for kinesin-based microtubule transport in vivo. *eLife* 12: e87125.(https://elifesciences.org/articles/87125)
 - P. Vazquez Pianzola¹, D. Beuchle, G. Saro, G. Hernández, G. Maldonado, D. Brunssen, P. Meister, and B. Suter¹. (2022). Female meiosis II and pronuclear fusion require the microtubule transport actor Bicaudal-D. (¹Corresponding authors). *Development* 149 (13): dev199944.
 - T. H. Manh, J. Lu, P. Vazquez Pianzola, B. Suter. (2022). α-Phenylalanyl tRNA synthetase competes with Notch signaling through its N-terminal domain. *PLoS Genet.* 18(4): e1010185.
 - R. Narendra Nag, S. Niggli, S. Sousa-Guimarães, P. Vazquez Pianzola, and B. Suter. (2018). Mms19 is a mitotic gene that permits Cdk7 to be fully active as Cdk activating kinase. *Development* 145(2): dev156802.
