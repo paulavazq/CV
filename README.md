@@ -42,30 +42,31 @@
 *Aug 2023 – Jul 2024*  
 **Bern University, Switzerland**
 
-- Final project: Prostate Cancer Prediction and Biomarker Identification Using Machine Learning and Deep Learning Algorithms on Transcriptome Data. [GitHub link](https://github.com/paulavazq/Final_Project_RNAseq)| [Final Report](https://github.com/paulavazq/Final_Project_RNAseq/blob/main/CAS_Final_Project_Report_Paula_Vazquez.pdf)| [Poster](./assets/CAS_ADS_Poster_Paula_Vazquez_A3.pdf)| [Certificate](https://github.com/paulavazq/CV/blob/main/assets/CAS-Certificate_Paula_Vazquez.pdf)
+- Final project: Prostate Cancer Prediction and Biomarker Identification Using Machine Learning and Deep Learning Algorithms on Transcriptome Data. [GitHub link](https://github.com/paulavazq/Final_Project_RNAseq)| [Final Report](https://github.com/paulavazq/Final_Project_RNAseq/blob/main/CAS_Final_Project_Report_Paula_Vazquez.pdf)| [Poster](./assets/CAS_ADS_Poster_Paula_Vazquez_A3.pdf)
 
+  
 **Ph.D. in Natural Sciences**  
 *Aug 2000 - Dec 2004*  
 **Kassel University, Germany**
 
 - Thesis: Studies of cap-independent RNA translation in *Drosophila melanogaster*.  
-- Graduated *mit Auszeichnung*, *summa cum laude* [Certificate](./assets/PhD-Certificate_Vazquez_Pianzola.pdf)
+- Graduated *mit Auszeichnung*, *summa cum laude* 
 
 **Master in Biology**  
 *Mar 1994 - Aug 1999*  
 **Buenos Aires University, Argentina**
 
-- Focus on Biotechnology and Molecular Biology. GPA: 9.12 (on a scale of 1-10)[Certificate](./assets/Biology_Master_Certificate_Paula_Vazquez.pdf)
+- Focus on Biotechnology and Molecular Biology. GPA: 9.12 (on a scale of 1-10)
 
 ## Further Education (Selection)
 
-- **Python / Data Analysis and Visualization** - Bern University, Mar 2023 [Certificate](./assets/Vazquez_Pynton_certificate.pdf)
+- **Python / Data Analysis and Visualization** - Bern University, Mar 2023 
 - **Good Clinical Practice (GCP)** - Clinical Trial Unit (CTU), Feb 2023
-- **Introduction to RNA-Seq** - Swiss Institute of Bioinformatics (SIB). SEP 2019. [Certificate](./assets/Paula_Vazquez_Certificte_introduction_to_RNA_seq.pdf)
-- **NGS - quality control, alignment, visualization** -  SIB.  JUN 2019.[Certificate](./assets/certificate_achievement_Vazquez_Paula_NGS_quality_control.pdf)
-- **UNIX in life sciences** - SIB. MAY 2019.[Certificate](./assets/UNIX_certificate_Vazquez_Paula.pdf)
-- **ImageJ/Fiji macros** - Bern University. MAR 2019.[Certificate](./assets/190325_ImageJ_FijiMacros_CertificateofAttendance_Vazquez_Pianzola_Maria_Paula.pdf)
-- **R- programming** - Bern University. NOV 2018.[Certificate](./assets/Certificate_Maria_Vazquez_R_course.pdf)
+- **Introduction to RNA-Seq** - Swiss Institute of Bioinformatics (SIB). SEP 2019. 
+- **NGS - quality control, alignment, visualization** -  SIB.  JUN 2019.
+- **UNIX in life sciences** - SIB. MAY 2019.
+- **ImageJ/Fiji macros** - Bern University. MAR 2019.
+- **R- programming** - Bern University. NOV 2018.
 - **Super-resolution microscopy in life science research** - Bern University. MAR 2017.
 
 ## Publications
@@ -108,8 +109,8 @@
 ## Research Grants/Awards
 
 - **2013, 2016, and 2017**: 120% model grants from the University of Bern, support for a technical staff salary.
-- **2010**: MVUB-Grant, Bern University support for consumables for the project: High-throughput sequencing to find mRNA targets of BicD/Egl/Imp RNA localization complexes and transcriptome profiling of Imp mutants. [Grant Certificate](https://github.com/paulavazq/CV/blob/main/assets/MVUB_grant_award.pdf)
-- **2012**: Travel expenses award from the Cold Spring Harbor Laboratory for the best poster presentation at the Cold Spring Harbor Asia Meeting on RNA Biology, China.[Award_Certificate](https://github.com/paulavazq/CV/blob/main/assets/CSH_Asia_Award.pdf)
+- **2010**: MVUB-Grant, Bern University support for consumables for the project: High-throughput sequencing to find mRNA targets of BicD/Egl/Imp RNA localization complexes and transcriptome profiling of Imp mutants. 
+- **2012**: Travel expenses award from the Cold Spring Harbor Laboratory for the best poster presentation at the Cold Spring Harbor Asia Meeting on RNA Biology, China.
 - **09.2008 - 09.2010**: Canada’s postdoctoral research fellows: for postdoctoral work for two years at McGill University, Montreal, Canada (thankfully declined).
 - **08.2000 - 12.2004**: Predoctoral Fellowship. Max Planck Institute, Germany.
 
