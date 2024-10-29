@@ -42,18 +42,18 @@
 *Aug 2023 – Jul 2024*  
 **Bern University, Switzerland**
 
-- Final project: Prostate Cancer Prediction and Biomarker Identification Using Machine Learning and Deep Learning Algorithms on Transcriptome Data. [GitHub link](https://github.com/paulavazq/Final_Project_RNAseq)| [Final Report](https://github.com/paulavazq/Final_Project_RNAseq/blob/main/CAS_Final_Project_Report_Paula_Vazquez.pdf)| [Poster](https://github.com/paulavazq/CV/blob/main/assets/CAS_ADS_Poster_Paula_Vazquez_A3.pdf)
+- Final project: Prostate Cancer Prediction and Biomarker Identification Using Machine Learning and Deep Learning Algorithms on Transcriptome Data. [GitHub link](https://github.com/paulavazq/Final_Project_RNAseq)| [Final Report](https://github.com/paulavazq/Final_Project_RNAseq/blob/main/CAS_Final_Project_Report_Paula_Vazquez.pdf)| [Poster](https://github.com/paulavazq/CV/blob/main/assets/CAS_ADS_Poster_Paula_Vazquez_A3.pdf)| [Certificate](https://github.com/paulavazq/CV/blob/main/assets/CAS-Certificate_Paula_Vazquez.pdf)
 
 **Ph.D. in Natural Sciences**  
 *Aug 2000 - Dec 2004*  
 **Kassel University, Germany**
 
 - Thesis: Studies of cap-independent RNA translation in *Drosophila melanogaster*.  
-- Graduated *mit Auszeichnung*, *summa cum laude*
+- Graduated *mit Auszeichnung*, *summa cum laude* [Certificate](https://github.com/paulavazq/CV/blob/main/assets/PhD-Certificate_Vazquez_Pianzola.pdf)
 
 **Master in Biology**  
 *Mar 1994 - Aug 1999*  
-**Buenos Aires University, Argentina**
+**Buenos Aires University, Argentina**[ Certificate](https://github.com/paulavazq/CV/blob/main/assets/Biology_Master_Certificate_Vazquez Pianzola.pdf)
 
 - Focus on Biotechnology and Molecular Biology. GPA: 9.12 (on a scale of 1-10)
 
