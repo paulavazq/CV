@@ -105,8 +105,6 @@
   - Mammalian cell translation extracts
 - Isolation of ribosomes
 
-
-
 ### 🧫 Cell Biology
 - Cultivation of mammalian and insect cells
 - RNAi-based knock-down
@@ -131,16 +129,17 @@
 
 ## 💻 📊 Data Analysis
 
-### Image Analysis and Processing Software
+### 🖼️ Image Analysis and Processing Software
 - ImageJ-Fiji
 - Adobe Photoshop
 - LAS-software
 
-### Molecular Biology Analysis
+### 🧬 Molecular Biology
 - Prism
 - ApE
+- Bioconductor
 
-### Data Analysis and programing
+### 👩‍💻 Data Analysis and programing
 - R programming
 - Unix/Linux
 - Python
@@ -175,14 +174,14 @@
 - P. Vazquez Pianzola*, G. Hernández*, J. M. Sierra, and R. Rivera Pomar. (2004). Internal ribosome entry site drives cap-independent translation of reaper and heat shock protein 70 mRNAs in Drosophila embryos. *RNA* 10: 1783-1797. (*Equal contribution). [Journal Link](https://rnajournal.cshlp.org/content/10/11/1783.long)|[PDF](https://rnajournal.cshlp.org/content/10/11/1783.full.pdf)
 - G. Hernández, P. Vazquez Pianzola, A. Zurbriggen, M. Altmann, J. M. Sierra, and R. Rivera Pomar. (2004). Two functionally redundant isoforms of Drosophila melanogaster eukaryotic initiation factor 4B are involved in cap-dependent translation, cell survival, and proliferation. *Eur. J. Biochem.* 271: 2923-2936. (Cover of the issue). [Journal Link](https://febs.onlinelibrary.wiley.com/doi/10.1111/j.1432-1033.2004.04217.x) | [PDF](moz-extension://6c849117-1085-4053-966c-a6f65ca723ce/enhanced-reader.html?openApp&pdf=https%3A%2F%2Ffebs.onlinelibrary.wiley.com%2Fdoi%2Fpdfdirect%2F10.1111%2Fj.1432-1033.2004.04217.x)
 
-## Reviews and Book Chapters
+### Reviews and Book Chapters
 
 - G. Hernández and P. Vazquez Pianzola. eIF4E as a molecular wildcard in metazoans RNA metabolism. (2023) *Biol. Rev. Camb Philos Soc.* 98(6): 2284-2306. [PDF](./assets/Biological_Reviews_2023_Hernandez_Vazquez.pdf)
 - P. Vazquez Pianzola, B. Suter, and G. Hernández. (2016). Evolution of the Molecules Coupling mRNA Transport with Translational Control in Metazoans. In *Evolution of the Protein Synthesis Machinery and its Regulation*, (Hernández G. & Jagus, R., Eds), Springer, Heidelberg, London, and New York. (Corresponding author). [PDF](./assets/Vazquez_Evolution_of_Molecules_2016.pdf)
 - P. Vazquez Pianzola and B. Suter. (2012). Conservation of the RNA transport machineries and their coupling to translation control across eukaryotes. *Comp. Funct. Genomics.* 287852. doi: 10.1155/2012/287852. (Corresponding author). [Journal Link](https://onlinelibrary.wiley.com/doi/10.1155/2012/287852) | [PDF](https://onlinelibrary.wiley.com/doi/epdf/10.1155/2012/287852)
 - G. Hernández, P. Vazquez Pianzola. (2005). Functional diversity of the eukaryotic translation initiation factors belonging to eIF4 families. *Mech. Dev.* 122: 865-876. [Journal Link](https://www.sciencedirect.com/science/article/pii/S0925477305000547?via%3Dihub)| [PDF](https://pdf.sciencedirectassets.com/271193/1-s2.0-S0925477305X01666/1-s2.0-S0925477305000547/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEO7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQCNI4i5kdSBKMf3wYWf%2BYi534Zclr9orHtdWfMacPiwfwIhAKntGlR5yaSYj9%2FiGt0vrZxJnlGBUgvfB8I%2BsV%2Blo9B%2FKrIFCGcQBRoMMDU5MDAzNTQ2ODY1IgzC19YPsTrZLNa2VvIqjwW5vRh003Bb70FsMmcM5invD26eNj4rW6Ce5D7lRUb4Ftg1Afw%2BJUiEM%2BySsQAW3OiKqZyAB21LKUwP6hajOFuc4aVHq6sWE6x2B9gQMKjzJSvW70Lk67MgLeBBZOBNAssmFRW3DQ7j9OOnM4aYBV7q7nyY%2Ft%2FUFq9OyYn9OwhchUTlIwH0dGNAYE4ZBc5n2Fi%2BPBxCmIajKSGbJTrr0vrum%2FPMB79v7Pf73xJhUaSCcdYGqZO%2BrQ%2BxFkuyr9CCGwwI8tAFvSPZtWnHuWMQWnap%2FK7NY0DikGp0V6rcjjIYB8w9al91Rc2%2BlEUzPf%2Fx5Tq6ag%2FmvCtUazvsQv%2F%2FGEV1PsaUTEibwZWS8MzWBD1%2Fv9rkDOzEcedA25NtZg1EgpptAiY7JGNdr%2FCbzNKYbqDOB5gDQRyQWGnjYTNZk15i4aCdhbo4cN%2FV9qvq10rjyZSxShB7YxReGsefYCu1jSR9LVByVUmH4cmZRKsGWZsqRP2mvETQI0vvkUzdG4j4TE%2BkRDLLhRv6%2Fb5KyKo0nnwHywZEfjKoJRgtoZ0MS2lxAzcz4O5A%2BQPpufMgPmDOHd%2BcmehsYI4OZ1hNAdyBpm5mmQk2S7yZU9Qw6SCT3D4Nt70hnwFOa22qWvPFoFWNM5ape30Z%2F7ZQbmn1FXGWhjb6dnkS17vXlP%2FKeGW1Y83tlFbcWhSoPCW%2Fd1RjTJczA88eYgZ%2B7uWu1CCx7MwU%2Fg9%2Ftdu5OEZO%2FgNvBkkBfWlV6h7FkBTs0RVR4u%2FQpQqO3s57M2ABy%2FuHxDbJIp4r4p%2BRv1trUNNCOuBY12dvtSnexf9F6jv%2BrV3vmqd1%2Fp6YV1QfHQppNZ4%2BK7MUd6CGm3wFoer6%2FWbKtTpTzlYAHCyPMNSkhbkGOrABQ873k5NwWnAMkLql8G1F%2FPf%2Fk5b1gqhif58Q5Bmm5vWBkUsiQEK4tcRtWybn%2BE7Yy4iwFkU76UB7z1MC9kqUblXBhXgbKqgBgQYfHwO76N23pdZdPu4Z%2FI88wJSPA%2Fx6LHr2NcUH8wIP9B5SK9WJEygz%2FPr%2FOUygwriqALoVNN2Q%2BmN76yCZ4CJnMh%2BUyAW2n2fA%2B5PqXF5AKSjqC5QcMzypK3bGpEF9eCxDtZjh5n0%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20241029T215509Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY5GUQZYGB%2F20241029%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=81e5f67c35897318e9fc5a8b7684ddc63210db9e1b59de0d38ecc053842c0ccc&hash=7bb04cfdc58fe7eb9b0a1054abff20a33c7398ec8c70b4d9a5f00f1fcbf25d5e&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0925477305000547&tid=spdf-14cea6b8-8dcc-4613-aa25-90fc9554c203&sid=8f055059888cf4458798e772e39fcc73532cgxrqb&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=190e5b0a0355555f500a50&rr=8da6687d2ecab88b&cc=ch)
 
-## Manuscripts in Preparation
+### Manuscripts in Preparation
 
 - P. Vazquez Pianzola, D. Beuchle, and B. Suter. Imp interacts with the RNAi machinery to control transposon silencing during embryogenesis. Manuscript in preparation for submission.
 
