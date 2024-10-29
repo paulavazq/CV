@@ -1,4 +1,4 @@
-
+## :briefcase: Work Experience
 ## 👜 Work Experience
 
 **Staff Scientist**  
