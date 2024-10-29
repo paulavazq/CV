@@ -49,23 +49,23 @@
 **Kassel University, Germany**
 
 - Thesis: Studies of cap-independent RNA translation in *Drosophila melanogaster*.  
-- Graduated *mit Auszeichnung*, *summa cum laude* [Certificate](https://github.com/paulavazq/CV/blob/main/assets/PhD-Certificate_Vazquez_Pianzola.pdf)
+- Graduated *mit Auszeichnung*, *summa cum laude* [Certificate](./assets/PhD-Certificate_Vazquez_Pianzola.pdf)
 
 **Master in Biology**  
 *Mar 1994 - Aug 1999*  
 **Buenos Aires University, Argentina**
 
-- Focus on Biotechnology and Molecular Biology. GPA: 9.12 (on a scale of 1-10)[Certificate](https://github.com/paulavazq/CV/blob/main/assets/Biology_Master_Certificate_Paula_Vazquez.pdf)
+- Focus on Biotechnology and Molecular Biology. GPA: 9.12 (on a scale of 1-10)[Certificate](./assets/Biology_Master_Certificate_Paula_Vazquez.pdf)
 
 ## Further Education (Selection)
 
-- **Python / Data Analysis and Visualization** - Bern University, Mar 2023 [Certificate](https://github.com/paulavazq/CV/blob/main/assets/Vazquez_Pynton_certificate.pdf)
+- **Python / Data Analysis and Visualization** - Bern University, Mar 2023 [Certificate](./assets/Vazquez_Pynton_certificate.pdf)
 - **Good Clinical Practice (GCP)** - Clinical Trial Unit (CTU), Feb 2023
-- **Introduction to RNA-Seq** - Swiss Institute of Bioinformatics (SIB). SEP 2019. [Certificate](https://github.com/paulavazq/CV/blob/main/assets/Paula_Vazquez_Certificte_introduction_to_RNA_seq.pdf)
-- **NGS - quality control, alignment, visualization** -  SIB.  JUN 2019.[Certificate](https://github.com/paulavazq/CV/blob/main/assets/certificate_achievement_Vazquez_Paula_NGS_quality_control.pdf)
-- **UNIX in life sciences** - SIB. MAY 2019.[Certificate](https://github.com/paulavazq/CV/blob/main/assets/UNIX_certificate_achievement_Vazquez_Paula.pdf)
-- **ImageJ/Fiji macros** - Bern University. MAR 2019.[Certificate](https://github.com/paulavazq/CV/blob/main/assets/190325_ImageJ_FijiMacros_CertificateofAttendance_Vazquez_Pianzola_Maria_Paula.pdf)
-- **R- programming** - Bern University. NOV 2018.[Certificate](https://github.com/paulavazq/CV/blob/main/assets/Certificate_Maria_Vazquez_R_course.pdf)
+- **Introduction to RNA-Seq** - Swiss Institute of Bioinformatics (SIB). SEP 2019. [Certificate](./assets/Paula_Vazquez_Certificte_introduction_to_RNA_seq.pdf)
+- **NGS - quality control, alignment, visualization** -  SIB.  JUN 2019.[Certificate](./assets/certificate_achievement_Vazquez_Paula_NGS_quality_control.pdf)
+- **UNIX in life sciences** - SIB. MAY 2019.[Certificate](./assets/UNIX_certificate_achievement_Vazquez_Paula.pdf)
+- **ImageJ/Fiji macros** - Bern University. MAR 2019.[Certificate](./assets/190325_ImageJ_FijiMacros_CertificateofAttendance_Vazquez_Pianzola_Maria_Paula.pdf)
+- **R- programming** - Bern University. NOV 2018.[Certificate](./assets/Certificate_Maria_Vazquez_R_course.pdf)
 - **Super-resolution microscopy in life science research** - Bern University. MAR 2017.
 
 ## Publications
