@@ -72,7 +72,7 @@
 ## Experimental Competences
 
 ### RNA Biochemistry
-- RNA/mRNA isolation
+- RNA isolation
 - RNA gels
 - Fragment analyzer
 - Northern blot
