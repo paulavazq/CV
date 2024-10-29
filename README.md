@@ -1,5 +1,5 @@
 
-## 💼 Work Experience
+## 👜 Work Experience
 
 **Staff Scientist**  
 *Jan 2012 - Aug 2023*  
