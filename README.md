@@ -135,15 +135,15 @@
 - LAS-software
 
 ### 🧬 Molecular Biology
-- Prism
 - ApE
 - Bioconductor
 
 ### 👩‍💻 Data Analysis and programing
+- Statistical inference
+- Prism software
 - R programming
 - Unix/Linux
 - Python
-- Statistical inference
 - Machine learning
 - Deep learning (PyTorch, TensorFlow, Scikit-learn)
 - Git/GitHub for version control and collaborative coding.
