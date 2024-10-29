@@ -1,4 +1,3 @@
-## :briefcase: Work Experience
 ## 👜 Work Experience
 
 **Staff Scientist**  
@@ -69,9 +68,9 @@
 - **R- programming** - Bern University. NOV 2018.
 - **Super-resolution microscopy in life science research** - Bern University. MAR 2017.
 
-## 🔬  Experimental Competences
+## 🧪 Experimental Competences
 
-### RNA Biochemistry
+### 🧬 RNA / DNA Biochemistry
 - RNA isolation
 - RNA gels
 - Fragment analyzer
@@ -86,8 +85,14 @@
 - In situ RNA hybridization
 - RT-qPCR analysis
 - Ribosome profiling
+- Purification of plasmids and genomic DNA
+- Transformation
+- DNA cloning (restriction enzyme/Gibson assembly cloning)
+- PCR
+- Sequencing
+- Southern blot
 
-### Protein Biochemistry
+### ⚛️ Protein Biochemistry
 - Western Blot
 - Protein immunoprecipitation
 - Protein expression and purification of recombinant proteins in bacteria
@@ -100,21 +105,15 @@
   - Mammalian cell translation extracts
 - Isolation of ribosomes
 
-### DNA Biochemistry
-- Purification of plasmids and genomic DNA
-- Transformation
-- DNA cloning (restriction enzyme/Gibson assembly cloning)
-- PCR
-- Sequencing
-- Southern blot
 
-### Cell Biology
+
+### 🧫 Cell Biology
 - Cultivation of mammalian and insect cells
 - RNAi-based knock-down
 - Immunostaining in cells and tissues
 - DNA and RNA in situ hybridization coupled to protein immunostaining
 
-### Genetics
+### 🪰 Genetics
 - Fly genetics
 - Genotypic and phenotypic studies
 - Generation of Drosophila mutants by:
@@ -124,13 +123,13 @@
 - Population cages
 - Generation of transgenic lines
 
-### Microscopy
+### 🔬 Microscopy
 - Imaging of fixed samples
 - Live imaging techniques in whole embryos, cells, and specific tissues using:
   - Confocal microscopy
   - Spinning disk microscopy
 
-## 💻 Data Analysis
+## 💻 📊 Data Analysis
 
 ### Image Analysis and Processing Software
 - ImageJ-Fiji
@@ -150,13 +149,13 @@
 - Deep learning (PyTorch, TensorFlow, Scikit-learn)
 - Git/GitHub for version control and collaborative coding.
 
-## LANGUAGES
+## 🌐 Languages
 
-- **English:** Excellent oral and written communication
-- **German:** Upper intermediate (B2)
-- **Spanish:** Native speaker
+- ** 🇬🇧 English:** Excellent oral and written communication
+- ** 🇩🇪 German:** Upper intermediate (B2)
+- ** 🇪🇸 Spanish:** Native speaker
 
-## 📜 Publications
+## 📚 Publications
 
 ### Research Articles
 
@@ -187,14 +186,14 @@
 
 - P. Vazquez Pianzola, D. Beuchle, and B. Suter. Imp interacts with the RNAi machinery to control transposon silencing during embryogenesis. Manuscript in preparation for submission.
 
-## Teaching Experience
+## 👩‍🏫 Teaching Experience
 
 - **05.2005 - 08.2023**: Teaching assistant on the Developmental Biology Practical courses for Biology students. University of Bern, Switzerland.
 - **2018**: Developmental Biology lectures for Biology Students (University of Bern). Mouse, chicken, and Drosophila development. Substitution for the full professor.
 - **2011 - 2012**: Developmental Biology lectures for the Master program: Drosophila as a model system.
 - **2000**: Teaching assistant of Immunology for Medical students. University of Buenos Aires, Argentina.
 
-## Research Grants/Awards
+## 💰 Research Grants/Awards
 
 - **2013, 2016, and 2017**: 120% model grants from the University of Bern, support for a technical staff salary.
 - **2010**: MVUB-Grant, Bern University support for consumables for the project: High-throughput sequencing to find mRNA targets of BicD/Egl/Imp RNA localization complexes and transcriptome profiling of Imp mutants. 
@@ -202,7 +201,7 @@
 - **09.2008 - 09.2010**: Canada’s postdoctoral research fellows: for postdoctoral work for two years at McGill University, Montreal, Canada (thankfully declined).
 - **08.2000 - 12.2004**: Predoctoral Fellowship. Max Planck Institute, Germany.
 
-## Supervision of Students
+## 👥 Supervision of Students
 
 - **2005 - 08.2023**: General supervision of bachelor students, MSc, and PhD students.
 - **2017 - 2023**: Supervised the Ph.D. work of Menging Bao and Aleksandra Jejina. Study the roles of α-tubulin C-tail modifications and BicD-R during development.
@@ -212,7 +211,7 @@
 - **2010**: Supervision of the Master Thesis of Dominique Hademann. Clathrin Heavy Chain is a novel interaction partner of BicD and links BicD to the endocytic pathway.
 - **2007**: Supervision of the Master Thesis of Jacqueline Adams. The oogenesis function of Clathrin heavy chain and its interaction with BicD.
 
-## Contacting References
+## 📞 Contacting References
 
 - **Prof. Dr. Beat Suter**  
   University of Bern, Department of Cell Biology  
