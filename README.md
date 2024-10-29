@@ -123,18 +123,5 @@
 - **2010**: Supervision of the Master Thesis of Dominique Hademann. Clathrin Heavy Chain is a novel interaction partner of BicD and links BicD to the endocytic pathway.
 - **2007**: Supervision of the Master Thesis of Jacqueline Adams. The oogenesis function of Clathrin heavy chain and its interaction with BicD.
 
-## Contacting References
-
-- Prof. Dr. Beat Suter, University of Bern, Department of Cell Biology.  
-  beat.suter@unibe.ch
-
-- Prof. Dr. Greco Hernandez Ramirez, Laboratory of Translation and Cancer, Unit of Biomedical Research on Cancer, Instituto de Cancerologia (INCan), Mexico City.  
-  ghernandezr@incan.edu.mx
-
-- Prof. Dr. Rolando Rivera-Pomar, Emeritus Group Molecular Developmental Biology. Max Planck Institute für Multidisciplinary Sciences, Göttingen, Germany and Centro Regional de Estudios Genómicos, Facultad de Ciencias Exactas, Universidad Nacional de la Plata, La Plata, Argentina.  
-  riverapomar@gmail.com  
-  rolando.rivera-pomar@mpinat.mpg.de
-
-
 
   
