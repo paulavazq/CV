@@ -36,7 +36,7 @@
 
 - Research project: Intracellular transport of mRNAs in glial cells; investigating differentially expressed mRNAs in glial cells during mouse development and in cell lines derived from cystic fibrosis (CF) patients.
 
-  ## Education
+## Education
 
 **CAS in Applied Data Science**  
 *Aug 2023 – Jul 2024*  
@@ -65,7 +65,7 @@
 - **Introduction to RNA-Seq** - Swiss Institute of Bioinformatics (SIB). SEP 2019. 
 - **NGS - quality control, alignment, visualization** -  SIB.  JUN 2019.
 - **UNIX in life sciences** - SIB. MAY 2019.
-- **ImageJ/Fiji macros** - Bern University. MAR 2019.
+- **Writing your own ImageJ/Fiji Macros** - Bern University. MAR 2019.
 - **R- programming** - Bern University. NOV 2018.
 - **Super-resolution microscopy in life science research** - Bern University. MAR 2017.
 
@@ -149,6 +149,11 @@
 - Machine learning
 - Deep learning (PyTorch, TensorFlow, Scikit-learn)
 
+## LANGUAGES
+
+- **English:** Excellent oral and written communication
+- **German:** Upper intermediate (B2)
+- **Spanish:** Native speaker
 
 ## Publications
 
