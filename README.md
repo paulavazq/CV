@@ -69,6 +69,87 @@
 - **R- programming** - Bern University. NOV 2018.
 - **Super-resolution microscopy in life science research** - Bern University. MAR 2017.
 
+## Experimental Competences
+
+### RNA Biochemistry
+- RNA/mRNA isolation
+- RNA gels
+- Fragment analyzer
+- Northern blot
+- Study of protein-RNA interactions by:
+  - RNA-protein crosslink
+  - EMSA
+  - Biotin pull-down assays
+- Isolation of protein-RNA complexes followed by high-throughput sequencing:
+  - RIP-seq
+  - Next generation sequencing
+- In situ RNA hybridization
+- RT-qPCR analysis
+- Ribosome profiling
+
+### Protein Biochemistry
+- Western Blot
+- Protein immunoprecipitation
+- Protein expression and purification of recombinant proteins in bacteria
+- Dialysis, gel filtration, and affinity chromatography
+- Antibody purification
+- Isolation of protein-protein complexes for mass spectrometry analysis
+- In vitro protein translation in:
+  - Drosophila
+  - Rabbit reticulocytes (RLL)
+  - Mammalian cell translation extracts
+- Isolation of ribosomes
+
+### DNA Biochemistry
+- Purification of plasmids and genomic DNA
+- Transformation
+- DNA cloning (restriction enzyme/Gibson assembly cloning)
+- PCR
+- Sequencing
+- Southern blot
+
+### Cell Biology
+- Cultivation of mammalian and insect cells
+- RNAi-based knock-down
+- Immunostaining in cells and tissues
+- DNA and RNA in situ hybridization coupled to protein immunostaining
+
+### Genetics
+- Fly genetics
+- Genotypic and phenotypic studies
+- Generation of Drosophila mutants by:
+  - P-element insertion
+  - CRISPR-Cas9 (deletions and specific mutations)
+  - dsRNAi expression
+- Population cages
+- Generation of transgenic lines
+
+### Microscopy
+- Imaging of fixed samples
+- Live imaging techniques in whole embryos, cells, and specific tissues using:
+  - Confocal microscopy
+  - Spinning disk microscopy
+
+## Data Analysis
+
+### Image Analysis and Processing Software
+- ImageJ-Fiji
+- Adobe Photoshop
+- LAS-software
+
+### Molecular Biology Analysis
+- Prism
+- ApE
+
+### Data Analysis
+- R programming
+- Unix/Linux
+- Python
+- Statistical inference
+- Machine learning
+- Deep learning (PyTorch, TensorFlow, Scikit-learn)
+
+
 ## Publications
 
 ### Research Articles
@@ -124,6 +205,25 @@
 - **2012**: Supervision of the Master Thesis of Bogdan Schaller. Searching for novel mRNA targets of the BicD RNA Localization Machinery: validation of BicD-RIP and Egl-RIP mRNA targets.
 - **2010**: Supervision of the Master Thesis of Dominique Hademann. Clathrin Heavy Chain is a novel interaction partner of BicD and links BicD to the endocytic pathway.
 - **2007**: Supervision of the Master Thesis of Jacqueline Adams. The oogenesis function of Clathrin heavy chain and its interaction with BicD.
+
+## Contacting References
+
+- **Prof. Dr. Beat Suter**  
+  University of Bern, Department of Cell Biology  
+  Email: [beat.suter@unibe.ch](mailto:beat.suter@unibe.ch)
+
+- **Prof. Dr. Greco Hernandez Ramirez**  
+  Laboratory of Translation and Cancer, Unit of Biomedical Research on Cancer,  
+  Instituto de Cancerologia (INCan), Mexico City  
+  Email: [ghernandezr@incan.edu.mx](mailto:ghernandezr@incan.edu.mx)
+
+- **Prof. Dr. Rolando Rivera-Pomar**  
+  Emeritus Group Molecular Developmental Biology,  
+  Max Planck Institute für Multidisciplinary Sciences, Göttingen, Germany  
+  Centro Regional de Estudios Genómicos,  
+  Facultad de Ciencias Exactas, Universidad Nacional de la Plata, La Plata, Argentina  
+  Emails: [riverapomar@gmail.com](mailto:riverapomar@gmail.com), [rolando.rivera-pomar@mpinat.mpg.de](mailto:rolando.rivera-pomar@mpinat.mpg.de)
+
 
 
    
