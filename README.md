@@ -36,7 +36,7 @@
 
 - Research project: Intracellular transport of mRNAs in glial cells; investigating differentially expressed mRNAs in glial cells during mouse development and in cell lines derived from cystic fibrosis (CF) patients.
 
-## Education
+## 🎓 Education
 
 **CAS in Applied Data Science**  
 *Aug 2023 – Jul 2024*  
