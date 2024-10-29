@@ -108,8 +108,8 @@
 ## Research Grants/Awards
 
 - **2013, 2016, and 2017**: 120% model grants from the University of Bern, support for a technical staff salary.
-- **2010**: MVUB-Grant, Bern University support for consumables for the project: High-throughput sequencing to find mRNA targets of BicD/Egl/Imp RNA localization complexes and transcriptome profiling of Imp mutants.
-- **2012**: Travel expenses award from the Cold Spring Harbor Laboratory for the best poster presentation at the Cold Spring Harbor Asia Meeting on RNA Biology, China.
+- **2010**: MVUB-Grant, Bern University support for consumables for the project: High-throughput sequencing to find mRNA targets of BicD/Egl/Imp RNA localization complexes and transcriptome profiling of Imp mutants. [Grant Certificate](https://github.com/paulavazq/CV/blob/main/assets/MVUB_grant_award.pdf)
+- **2012**: Travel expenses award from the Cold Spring Harbor Laboratory for the best poster presentation at the Cold Spring Harbor Asia Meeting on RNA Biology, China.[Award_Certificate](https://github.com/paulavazq/CV/blob/main/assets/CSH_Asia_Award.pdf)
 - **09.2008 - 09.2010**: Canada’s postdoctoral research fellows: for postdoctoral work for two years at McGill University, Montreal, Canada (thankfully declined).
 - **08.2000 - 12.2004**: Predoctoral Fellowship. Max Planck Institute, Germany.
 
