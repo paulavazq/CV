@@ -53,7 +53,7 @@
 
 **Master in Biology**  
 *Mar 1994 - Aug 1999*  
-**Buenos Aires University, Argentina**[ Certificate](https://github.com/paulavazq/CV/blob/main/assets/Biology_Master_Certificate_Vazquez Pianzola.pdf)
+**Buenos Aires University, Argentina**[ Certificate](https://github.com/paulavazq/CV/blob/main/assets/Biology_Master_Certificate_Paula_Vazquez.pdf)
 
 - Focus on Biotechnology and Molecular Biology. GPA: 9.12 (on a scale of 1-10)
 
