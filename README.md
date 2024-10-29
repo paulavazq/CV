@@ -1,5 +1,5 @@
 
-## Work Experience
+## 💼 Work Experience
 
 **Staff Scientist**  
 *Jan 2012 - Aug 2023*  
@@ -69,7 +69,7 @@
 - **R- programming** - Bern University. NOV 2018.
 - **Super-resolution microscopy in life science research** - Bern University. MAR 2017.
 
-## Experimental Competences
+## 🔬  Experimental Competences
 
 ### RNA Biochemistry
 - RNA isolation
@@ -130,7 +130,7 @@
   - Confocal microscopy
   - Spinning disk microscopy
 
-## Data Analysis
+## 💻 Data Analysis
 
 ### Image Analysis and Processing Software
 - ImageJ-Fiji
@@ -141,13 +141,14 @@
 - Prism
 - ApE
 
-### Data Analysis
+### Data Analysis and programing
 - R programming
 - Unix/Linux
 - Python
 - Statistical inference
 - Machine learning
 - Deep learning (PyTorch, TensorFlow, Scikit-learn)
+- Git/GitHub for version control and collaborative coding.
 
 ## LANGUAGES
 
@@ -155,7 +156,7 @@
 - **German:** Upper intermediate (B2)
 - **Spanish:** Native speaker
 
-## Publications
+## 📜 Publications
 
 ### Research Articles
 
