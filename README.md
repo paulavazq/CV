@@ -41,7 +41,8 @@
 *Aug 2023 – Jul 2024*  
 **Bern University, Switzerland**
 
-- Final project: Prostate Cancer Prediction and Biomarker Identification Using Machine Learning and Deep Learning Algorithms on Transcriptome Data. [GitHub link](https://github.com/paulavazq/Final_Project_RNAseq)| [Final Report](https://github.com/paulavazq/Final_Project_RNAseq/blob/main/CAS_Final_Project_Report_Paula_Vazquez.pdf)| [Poster](./assets/CAS_ADS_Poster_Paula_Vazquez_A3.pdf)
+- Final project: Prostate Cancer Prediction and Biomarker Identification Using Machine Learning and Deep Learning Algorithms on Transcriptome Data.
+  [GitHub link](https://github.com/paulavazq/Final_Project_RNAseq)| [Final Report](https://github.com/paulavazq/Final_Project_RNAseq/blob/main/CAS_Final_Project_Report_Paula_Vazquez.pdf)| [Poster](./assets/CAS_ADS_Poster_Paula_Vazquez_A3.pdf)
 
   
 **Ph.D. in Natural Sciences**  
