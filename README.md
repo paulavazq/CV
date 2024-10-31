@@ -151,9 +151,9 @@
 
 ## 🌐 Languages
 
-- ** 🇬🇧 English:** Excellent oral and written communication
-- ** 🇩🇪 German:** Upper intermediate (B2)
-- ** 🇪🇸 Spanish:** Native speaker
+- 🇬🇧 English: Excellent oral and written communication
+- 🇩🇪 German: Upper intermediate (B2)
+-  🇪🇸 Spanish: Native speaker
 
 ## 📚 Publications
 
