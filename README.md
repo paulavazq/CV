@@ -1,3 +1,9 @@
+<style>
+  .footer {
+    display: none;
+  }
+</style>
+
 ## 👜 Work Experience
 
 **Staff Scientist**  
