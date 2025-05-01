@@ -1,6 +1,6 @@
 ## 👜 Work Experience
 **Data Scientist**  
-*Nov 2024 - Present*  
+*Nov 2024 - Mar 2025*  
 **Zürich University, Diagnostic Imaging Research Unit (DIRU), Switzerland**
 
 - Developing and implementing a computer vision-based tracking system to monitor and analyze individual dog behaviors.
