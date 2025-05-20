@@ -87,8 +87,8 @@
   - Biotin pull-down assays
 - Isolation of protein-RNA complexes followed by high-throughput sequencing:
   - RIP-seq
-  - Next generation sequencing
-- In situ RNA hybridization
+  - Next generation  (NGS)
+- In situ hybridization (RNA/DNA)
 - RT-qPCR analysis
 - Ribosome profiling
 - Purification of plasmids and genomic DNA
@@ -144,21 +144,24 @@
 - ApE
 - Bioconductor
 
-### 👩‍💻 Data Analysis and programing
+### 👩‍💻 Data Analysis and programming
+- Data management
+- Data Curation/ Data labelling (CVAT software)
 - Statistical inference
-- Prism software
+- Prism software 
 - R programming
 - Unix/Linux
 - Python
-- Machine learning
-- Deep learning (PyTorch, TensorFlow, Scikit-learn)
+- SQL
+- Machine learning/Deep learning (PyTorch, TensorFlow, Scikit-learn)
+- Computer Vision frameworks (DeepCutLab, Yolo)
 - Git/GitHub for version control and collaborative coding.
 
 ## 🌐 Languages
 
 - 🇬🇧 English: Excellent oral and written communication
-- 🇩🇪 German: Upper intermediate (B2)
--  🇪🇸 Spanish: Native speaker
+- 🇩🇪 German: Upper intermediate (B2-C1)
+- 🇪🇸 Spanish: Native speaker
 
 ## 📚 Publications
 
@@ -201,7 +204,9 @@
 
 ### Manuscripts in Preparation
 
-- P. Vazquez Pianzola, D. Beuchle, and B. Suter. Imp interacts with the RNAi machinery to control transposon silencing during embryogenesis. Manuscript in preparation for submission.
+- P.Vazquez-Pianzola, P. M’Angale, D. Beuchle, G. Alegre,  G. Hernández, S. Bullock, T. Thomson  and B. Suter. Maternal Imp, a key regulator of transposable elements, cell growth and differentiation genes during embryogenesis. Manuscript ready for submission.
+- P. Vazquez Pianzola and G. Hernandez. Prostate Cancer Prediction and Biomarker Identification by machine and deep learning from RNAseq data. Manuscript in preparation.
+
 
 ## 👩‍🏫 Teaching Experience
 
