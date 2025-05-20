@@ -3,8 +3,9 @@
 *Nov 2024 - Mar 2025*  
 **Zürich University, Diagnostic Imaging Research Unit (DIRU), Switzerland**
 
-- Developing and implementing a computer vision-based tracking system to monitor and analyze individual dog behaviors.
-  
+- Developing and implementing a computer vision pipeline using DeepCutLab and YOLO to monitor canine behavioral patterns.
+- Responsible for data labeling, training computer vision models, and conducting data analysis. 
+
 **Staff Scientist**  
 *Jan 2012 - Aug 2023*  
 **Bern University, Institute of Cell Biology, Switzerland**
