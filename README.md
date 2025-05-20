@@ -1,5 +1,5 @@
 ## 👜 Work Experience
-**Data Scientist**  
+**Data Scientist Intern**  
 *Nov 2024 - Mar 2025*  
 **Zürich University, Diagnostic Imaging Research Unit (DIRU), Switzerland**
 
