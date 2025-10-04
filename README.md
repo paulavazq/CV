@@ -167,6 +167,7 @@
 ## 📚 Publications
 
 ### Research Articles
+- P.Vazquez-Pianzola, P. M’Angale, D. Beuchle, G. Alegre,  G. Hernández, S. Bullock, T. Thomson  and B. Suter. Maternal Imp, a key regulator of transposable elements, cell growth and differentiation genes during embryogenesis.(2025).bioRxiv. [Journal Link] (https://www.biorxiv.org/content/10.1101/2025.09.30.679481v1.full)
 
 - A. Jejina, Y. Ayala, D. Beuchle, T. Höhener, R. Dörig, P. Vazquez Pianzola, G. Hernández, and B. Suter. (2023). Role of BicDR in shaft construction and support of BicD functions. *J. Cell. Sci.* 137 (2): jcs261408.
   [Journal Link](https://journals.biologists.com/jcs/article/137/2/jcs261408/342651/Role-of-BicDR-in-bristle-shaft-construction-and)| [PDF](https://cob.silverchair-cdn.com/cob/content_public/journal/jcs/137/2/10.1242_jcs.261408/9/jcs261408.pdf?Expires=1733260170&Signature=mq23sg-zZ4HnjfQZ93gg-p7FhVbW5MGoGIT4sXxy~uT0Jxl7N5GRp83G8nYEzBtJs9CnTLm4LMQRXlyVT2VKBYg-NtR-rUm9-euT5oPLHk-~1OeaU7rUuUpE2J3DuPjx4OXAz~ASHM7s6awsJLgoOTjvH9J0dPxoq0yJYz9VejeOGFFVGqm2XtxUvZ41SdQZgeL5KtrzTHvecJMVeSj6Sb~D8KI7R1T83oacKw0moTGWcBZVvJ1i0jNwBKXAmKr9I3u6qlPjluxHEVbmNsuwYi-AaS5WsF1xzLEvfySd5hHOITpZJ8oQWolzL6khzAaOPMN9C3dabtWFA~0TIakvMA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)
@@ -205,7 +206,6 @@
 
 ### Manuscripts in Preparation
 
-- P.Vazquez-Pianzola, P. M’Angale, D. Beuchle, G. Alegre,  G. Hernández, S. Bullock, T. Thomson  and B. Suter. Maternal Imp, a key regulator of transposable elements, cell growth and differentiation genes during embryogenesis. Manuscript ready for submission.
 - P. Vazquez Pianzola and G. Hernandez. Prostate Cancer Prediction and Biomarker Identification by machine and deep learning from RNAseq data. Manuscript in preparation.
 
 
