@@ -159,9 +159,9 @@
   - Confocal microscopy
   - Spinning disk microscopy
 
-## 💻 📊 Data Analysis
+## 💻 📊 DATA ANALYSIS
 
-### 🖼️ Multi-omics data analysis and integration
+### 🧬 Multi-omics data analysis and integration
  -transcriptomics, proteomics, RNA-binding protein networks
 
 ### 🖼️ Image Analysis and Processing Software
