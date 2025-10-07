@@ -1,13 +1,24 @@
-## 👜 Work Experience
-**Data Scientist Intern**  
-*Nov 2024 - Mar 2025*  
-**Zürich University, Diagnostic Imaging Research Unit (DIRU), Switzerland**
+## 👜 WORK EXPERIENCE
 
-- Developing and implementing a computer vision pipeline using DeepCutLab and YOLO to monitor canine behavioral patterns.
-- Responsible for data labeling, training computer vision models, and conducting data analysis. 
+### RECENT EXPERIENCE AND UPSKILLING  
+*Aug 2023 – Present*
 
-**Staff Scientist**  
-*Jan 2012 - Aug 2023*  
+- **Data Scientist Intern – University of Zürich, Diagnostic Imaging Research Unit**
+  (Nov 2024 – Mar 2025)  
+  Applied ML/DL and computer vision (Python, PyTorch, YOLO, DeepCutLab) to analyze biological datasets, expanding computational expertise to complement molecular biology background.
+
+- **Independent Researcher – Institute of Cell Biology, University of Bern**
+  (2023 – Present) 
+  Conducted multi-omics analysis (RNA-seq, RIP-seq, proteomics) and integrated results into a manuscript recently submitted for publication.
+
+- **Independent Researcher – Collaborating Group in Mexico**
+ (2024 – Present)
+  Advancing prior CAS project (Prostate Cancer Prediction using ML/DL on Transcriptomic Data) into a collaborative research paper.
+
+### STAFF SCIENTIST  
+
+*Jan 2012 - Aug 2023* 
+
 **Bern University, Institute of Cell Biology, Switzerland**
 
 - Design, plan, manage, execute, coordinate, and analyze data for independent research projects.
@@ -18,8 +29,10 @@
 - Maintaining and expanding expertise in biochemical, molecular, and cell biology, genetics, imaging, NGS, and data analysis within the research group.
 - Teaching and assisting in Developmental Biology courses and lectures.
 
-**Senior Scientist / Postdoc**  
+### STAFF SCIENTIST / POSTDOC 
+
 *Mar 2005 - Dec 2011*  
+
 **Bern University, Institute of Cell Biology, Switzerland**
 
 - Design, plan, execute, and publish independent research projects.
@@ -28,20 +41,28 @@
 - Supervising and advising BSc, MSc, Ph.D. students.
 - Assistance in Developmental Biology practical courses.
 
-**Research Associate / Doctoral Studies**  
-*Aug 2000 - Dec 2004*  
+###  RESEARCH ASSOCIATE / DOCTORAL STUDIES 
+
+*Aug 2000 - Dec 2004* 
+
 **Max Planck Institute for Biophysical Chemistry, Germany**
 
 - Research project: Elucidating cap-independent and internal ribosome entry site (IRES)-dependent translation mechanisms in early development and apoptosis.
 - Set up in vitro translation systems and methods to purify proteins binding to IRES RNA sequences.
 
-**Research Assistant**  
+###  RESEARCH ASSISTANT  
+
 *Aug 1997 - May 2000*  
+
 **Institute for Biochemical Research, Buenos Aires, Argentina**
 
 - Research project: Intracellular transport of mRNAs in glial cells; investigating differentially expressed mRNAs in glial cells during mouse development and in cell lines derived from cystic fibrosis (CF) patients.
 
-## 🎓 Education
+## 🎓 EDUCATION
+
+**CAS in Advanced Machine Learning**  
+*Aug 2025 – Jul 2026 (expected)*  
+**Bern University, Switzerland**
 
 **CAS in Applied Data Science**  
 *Aug 2023 – Jul 2024*  
@@ -49,8 +70,7 @@
 
 - Final project: Prostate Cancer Prediction and Biomarker Identification Using Machine Learning and Deep Learning Algorithms on Transcriptome Data.
   [GitHub link](https://github.com/paulavazq/Final_Project_RNAseq)| [Final Report](https://github.com/paulavazq/Final_Project_RNAseq/blob/main/CAS_Final_Project_Report_Paula_Vazquez.pdf)| [Poster](./assets/CAS_ADS_Poster_Paula_Vazquez_A3.pdf)
-
-  
+ 
 **Ph.D. in Natural Sciences**  
 *Aug 2000 - Dec 2004*  
 **Kassel University, Germany**
@@ -64,7 +84,7 @@
 
 - Focus on Biotechnology and Molecular Biology. GPA: 9.12 (on a scale of 1-10)
 
-## Further Education (Selection)
+## FURTHER EDUCATION (Selection)
 
 - **Python / Data Analysis and Visualization** - Bern University, Mar 2023 
 - **Good Clinical Practice (GCP)** - Clinical Trial Unit (CTU), Feb 2023
@@ -75,9 +95,9 @@
 - **R- programming** - Bern University. NOV 2018.
 - **Super-resolution microscopy in life science research** - Bern University. MAR 2017.
 
-## 🧪 Experimental Competences
+## 🧪 EXPERIMENTAL COMPETENCES
 
-### 🧬 RNA / DNA Biochemistry
+### 🧬 RNA Biochemistry
 - RNA isolation
 - RNA gels
 - Fragment analyzer
@@ -86,12 +106,17 @@
   - RNA-protein crosslink
   - EMSA
   - Biotin pull-down assays
-- Isolation of protein-RNA complexes followed by high-throughput sequencing:
+- Isolation of protein-RNA complexes followed by high-throughput sequencing - Next generation  (NGS):
   - RIP-seq
-  - Next generation  (NGS)
+  - Transcriptomics
+  - small RNA-seq
 - In situ hybridization (RNA/DNA)
 - RT-qPCR analysis
 - Ribosome profiling
+- RNAi
+
+### 🧬 DNA Biochemistry
+
 - Purification of plasmids and genomic DNA
 - Transformation
 - DNA cloning (restriction enzyme/Gibson assembly cloning)
@@ -101,7 +126,7 @@
 
 ### ⚛️ Protein Biochemistry
 - Western Blot
-- Protein immunoprecipitation
+- Protein co-immunoprecipitation
 - Protein expression and purification of recombinant proteins in bacteria
 - Dialysis, gel filtration, and affinity chromatography
 - Antibody purification
@@ -110,7 +135,7 @@
   - Drosophila
   - Rabbit reticulocytes (RLL)
   - Mammalian cell translation extracts
-- Isolation of ribosomes
+- Proteomics
 
 ### 🧫 Cell Biology
 - Cultivation of mammalian and insect cells
@@ -136,6 +161,9 @@
 
 ## 💻 📊 Data Analysis
 
+### 🖼️ Multi-omics data analysis and integration
+ -transcriptomics, proteomics, RNA-binding protein networks
+
 ### 🖼️ Image Analysis and Processing Software
 - ImageJ-Fiji
 - Adobe Photoshop
@@ -145,29 +173,32 @@
 - ApE
 - Bioconductor
 
-### 👩‍💻 Data Analysis and programming
-- Data management
-- Data Curation/ Data labelling (CVAT software)
-- Statistical inference
-- Prism software 
-- R programming
-- Unix/Linux
-- Python
-- SQL
-- Machine learning/Deep learning (PyTorch, TensorFlow, Scikit-learn)
-- Computer Vision frameworks (DeepCutLab, Yolo)
-- Git/GitHub for version control and collaborative coding.
+### 👩‍💻 Data Analysis and Programming
 
-## 🌐 Languages
+- **Data management & curation**: Data labeling (CVAT software), data cleaning  
+- **Statistical analysis**: Statistical inference, Prism software  
+- **Programming**:  
+  - R (Bioconductor: clusterProfiler, ggplot2)  
+  - Python (pandas, NumPy, matplotlib, seaborn, plotly)  
+  - SQL  
+  - Unix/Linux  
+- **Machine learning / deep learning**: PyTorch, TensorFlow, Scikit-learn  
+- **Computer vision frameworks**: DeepCutLab, YOLO  
+- **Version control & collaboration**: Git/GitHub
+- **Report generation**: (e.g., R Markdown, Jupyter Notebooks)
+
+
+## 🌐 LANGUAGES
 
 - 🇬🇧 English: Excellent oral and written communication
 - 🇩🇪 German: Upper intermediate (B2-C1)
 - 🇪🇸 Spanish: Native speaker
+- 🇫🇷 French :A0
 
-## 📚 Publications
+## 📚 PUBLICATIONS
 
 ### Research Articles
-- P.Vazquez-Pianzola, P. M’Angale, D. Beuchle, G. Alegre,  G. Hernández, S. Bullock, T. Thomson  and B. Suter. Maternal Imp, a key regulator of transposable elements, cell growth and differentiation genes during embryogenesis.(2025).bioRxiv. [Journal Link] (https://www.biorxiv.org/content/10.1101/2025.09.30.679481v1.full)
+- P.Vazquez-Pianzola, P. M’Angale, D. Beuchle, G. Alegre,  G. Hernández, S. Bullock, T. Thomson  and B. Suter. Imp, a key regulator of transposable elements, cell growth and differentiation genes during embryogenesis.(2025).bioRxiv. [Journal Link] (https://www.biorxiv.org/content/10.1101/2025.09.30.679481v1.full)
 
 - A. Jejina, Y. Ayala, D. Beuchle, T. Höhener, R. Dörig, P. Vazquez Pianzola, G. Hernández, and B. Suter. (2023). Role of BicDR in shaft construction and support of BicD functions. *J. Cell. Sci.* 137 (2): jcs261408.
   [Journal Link](https://journals.biologists.com/jcs/article/137/2/jcs261408/342651/Role-of-BicDR-in-bristle-shaft-construction-and)| [PDF](https://cob.silverchair-cdn.com/cob/content_public/journal/jcs/137/2/10.1242_jcs.261408/9/jcs261408.pdf?Expires=1733260170&Signature=mq23sg-zZ4HnjfQZ93gg-p7FhVbW5MGoGIT4sXxy~uT0Jxl7N5GRp83G8nYEzBtJs9CnTLm4LMQRXlyVT2VKBYg-NtR-rUm9-euT5oPLHk-~1OeaU7rUuUpE2J3DuPjx4OXAz~ASHM7s6awsJLgoOTjvH9J0dPxoq0yJYz9VejeOGFFVGqm2XtxUvZ41SdQZgeL5KtrzTHvecJMVeSj6Sb~D8KI7R1T83oacKw0moTGWcBZVvJ1i0jNwBKXAmKr9I3u6qlPjluxHEVbmNsuwYi-AaS5WsF1xzLEvfySd5hHOITpZJ8oQWolzL6khzAaOPMN9C3dabtWFA~0TIakvMA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)
@@ -209,14 +240,14 @@
 - P. Vazquez Pianzola and G. Hernandez. Prostate Cancer Prediction and Biomarker Identification by machine and deep learning from RNAseq data. Manuscript in preparation.
 
 
-## 👩‍🏫 Teaching Experience
+## 👩‍🏫 TEACHING EXPERIENCE
 
 - **05.2005 - 08.2023**: Teaching assistant on the Developmental Biology Practical courses for Biology students. University of Bern, Switzerland.
 - **2018**: Developmental Biology lectures for Biology Students (University of Bern). Mouse, chicken, and Drosophila development. Substitution for the full professor.
 - **2011 - 2012**: Developmental Biology lectures for the Master program: Drosophila as a model system.
 - **2000**: Teaching assistant of Immunology for Medical students. University of Buenos Aires, Argentina.
 
-## 💰 Research Grants/Awards
+## 💰 RESEARCH GRANTS AND AWARDS
 
 - **2013, 2016, and 2017**: 120% model grants from the University of Bern, support for a technical staff salary.
 - **2010**: MVUB-Grant, Bern University support for consumables for the project: High-throughput sequencing to find mRNA targets of BicD/Egl/Imp RNA localization complexes and transcriptome profiling of Imp mutants. 
@@ -224,7 +255,7 @@
 - **09.2008 - 09.2010**: Canada’s postdoctoral research fellows: for postdoctoral work for two years at McGill University, Montreal, Canada (thankfully declined).
 - **08.2000 - 12.2004**: Predoctoral Fellowship. Max Planck Institute, Germany.
 
-## 👥 Supervision of Students
+## 👥 SUPERVISION OF STUDENTS
 
 - **2005 - 08.2023**: General supervision of bachelor students, MSc, and PhD students.
 - **2017 - 2023**: Supervised the Ph.D. work of Menging Bao and Aleksandra Jejina. Study the roles of α-tubulin C-tail modifications and BicD-R during development.
@@ -234,7 +265,7 @@
 - **2010**: Supervision of the Master Thesis of Dominique Hademann. Clathrin Heavy Chain is a novel interaction partner of BicD and links BicD to the endocytic pathway.
 - **2007**: Supervision of the Master Thesis of Jacqueline Adams. The oogenesis function of Clathrin heavy chain and its interaction with BicD.
 
-## 📞 Contacting References
+## 📞 CONTACTING REFERENCES
 
 - **Prof. Dr. Beat Suter**  
   University of Bern, Department of Cell Biology  
